@@ -35,5 +35,5 @@ Nuestra conclusión final es que nos pareció un verdadero reto, nos obligó a f
 
 Lo más fácil fue elegir la estructura y la información que íbamos a colocar. Lo más difícil fue dividir el trabajo entre los integrantes, teniendo en cuenta las cualidades de cada uno.
 Tuvimos algunos problemas con los imágenes y con subir los archivos debido que separar en carpetas terminaba en que la información no se conectara entre sí, por eso decidimos eliminarlo.
-La página por lo menos es funcional, no muy destacable pero es aceptable.
+La página por lo menos es funcional, no muy destacable pero es aceptable. Terminamos mejorando el frontend para una mejor experiencia visual.
 
